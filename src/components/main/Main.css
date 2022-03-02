@@ -1,0 +1,70 @@
+main {
+    height: 399px;
+    background-color: #1A1B21;
+}
+
+.display-name {
+    margin: 0;
+    padding-top: 21px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.role-name {
+    margin: 0;
+    padding-top: 6.19px;
+    color: #F3BF99;
+    text-align: center;
+    font-size: 12.8px;
+    line-height: 15px;
+}
+
+.personal-link {
+    margin: 0;
+    padding: 8.81px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #F5F5F5;
+    font-size: 10.24px;
+    line-height: 150%;
+}
+
+.email-btn {
+    display: block;
+    margin: 16px auto;
+    width: 247px;
+    height: 34px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #374151;
+}
+
+.body-container {
+    color: white;
+    height: 201px;
+    width: 247px;
+    margin: 16px auto;
+}
+
+section h3 {
+    margin: 16px auto 0 auto;
+    font-size: 16px;
+    line-height: 150%;
+    color: #F5F5F5;
+}
+
+section p {
+    margin: 0;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #DCDCDC;
+}
